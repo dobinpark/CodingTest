@@ -1,10 +1,10 @@
 # [level 1] 약수의 합 - 12928 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12928) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=python3) 
 
 ### 성능 요약
 
-메모리: 82.3 MB, 시간: 1.48 ms
+메모리: 10.2 MB, 시간: 0.31 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 14일 18:43:01
+2025년 02월 18일 14:07:18
 
 ### 문제 설명
 
